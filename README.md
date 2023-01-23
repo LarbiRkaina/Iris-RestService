@@ -2,23 +2,23 @@ Rest Services in Intersystems-Iris.
 
 In this step, you create a web application that provides access to your REST service. In the Management Portal, complete the following steps:
 
-Click System Administration > Security > Applications > Web Applications.
+    1- Click System Administration > Security > Applications > Web Applications.
 
-Click Create New Web Application.
+    2- Click Create New Web Application.
 
-Specify the following values:
+    3- Specify the following values:
 
-Name — Name for the web application; this must be unique within this instance of InterSystems IRIS. The most common name is based on the namespace in which the web application runs: /csp/namespace
+    Name: Name for the web application; this must be unique within this instance of InterSystems IRIS. The most common name is based on the namespace in  which the web application runs: /csp/namespace
 
-Namespace — Select the namespace in which you generated the classes.
+    Namespace:  Select the namespace in which you generated the classes.
 
-Enable Application — Select this check box.
+    Enable Application:  Select this check box.
 
-Enable — Select REST.
+    Enable:  Select REST.
 
-Dispatch Class — Type the fully qualified name of the dispatch class.
+    Dispatch Class: Type the fully qualified name of the dispatch class.
 
-Click Save.
+    Click Save.
 
 ![Captura de pantalla 2023-01-23 a las 14 18 59](https://user-images.githubusercontent.com/107713900/214049575-207de892-d193-4e44-977f-f4dc8a8c20b0.png)
 
