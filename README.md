@@ -25,6 +25,7 @@ In this step, you create a web application that provides access to your REST ser
 
 This is the web application created:
 
+
 ![Captura de pantalla 2023-01-23 a las 13 09 41](https://user-images.githubusercontent.com/107713900/214048812-b1a2ec94-b62a-4a3d-93dc-4a22ff29da53.png)
 
 
