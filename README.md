@@ -1,4 +1,4 @@
-Rest Services in Intersystems-Iris.
+**Rest Services in Intersystems-Iris**
 
 In this step, you create a web application that provides access to your REST service. In the Management Portal, complete the following steps:
 
@@ -25,8 +25,9 @@ In this step, you create a web application that provides access to your REST ser
 
 This is the web application created:
 
+![Captura de pantalla 2023-01-23 a las 15 58 44](https://user-images.githubusercontent.com/107713900/214072027-e55afa6d-bd06-4a6b-9fe0-fdfb403e2dea.png)
 
-![Captura de pantalla 2023-01-23 a las 13 09 41](https://user-images.githubusercontent.com/107713900/214048812-b1a2ec94-b62a-4a3d-93dc-4a22ff29da53.png)
 
+With the endpoint **GET /api/mgmnt/** we get the lists of the REST-enabled web applications on this server:
 
 ![Captura de pantalla 2023-01-23 a las 14 12 10](https://user-images.githubusercontent.com/107713900/214049812-7e15c7d3-f3b2-4f7a-a310-44b5b3ec71b8.png)
